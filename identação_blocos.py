@@ -7,4 +7,5 @@ def sacar(valor):
 
 print('odrigado por ser nosso cliente, tenha um bom dia!')
 
-sacar(1500)
+
+sacar(150)
