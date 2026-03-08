@@ -10,7 +10,7 @@ print(nome.title())
 
 
 
-#elominando espaços em branco
+#eliminando espaços em branco
 
 texto = '    olá mundo       '
 
@@ -28,5 +28,6 @@ menu = 'girafas'
 print('####' + menu + '####')
 print(menu.center(20))
 print(menu.center(20, '#'))
+
 
 print('-'.join(menu))
